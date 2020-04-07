@@ -1,0 +1,6 @@
+.gitignore
+.idea/
+.vscode/
+README.md
+install.sh
+Dockerfile
